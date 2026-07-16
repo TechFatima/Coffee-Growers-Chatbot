@@ -13,6 +13,3 @@ venv/
 
 # Local app data
 chroma_db/
-
-# Local-only files
-game.py
